@@ -1,0 +1,17 @@
+.container{
+    width:300px;
+    margin:0 auto;
+    padding: 10px;
+    background-color: antiquewhite;
+    text-align: center;
+}
+
+.container button{
+    width: 80px;
+    padding: 5px;
+
+}
+
+.container h2{
+    margin: 30px;
+}
